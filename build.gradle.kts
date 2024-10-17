@@ -8,7 +8,7 @@ plugins {
     id("com.diffplug.spotless") version "6.25.0"
     id("com.github.ben-manes.versions") version "0.39.0"
     `java-library`
-    id("org.zaproxy.add-on") version "0.7.0"
+    id("org.zaproxy.add-on") version "0.7.0" 
 }
 
 repositories {
